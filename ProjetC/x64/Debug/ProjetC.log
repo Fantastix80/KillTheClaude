@@ -1,11 +1,17 @@
-﻿  Main.c
-C:\Users\jeanv\Desktop\Cours\Dev applis\C-C++\ProjetC\ProjetC\Main.c(46,2): warning C4091: 'extern ' : ignoré à gauche de 'Game' quand aucune variable n'est déclarée
-C:\Users\jeanv\Desktop\Cours\Dev applis\C-C++\ProjetC\ProjetC\Main.c(185,15): warning C4473: 'scanf_s' : nombre insuffisant d'arguments passés pour la chaîne de format
-C:\Users\jeanv\Desktop\Cours\Dev applis\C-C++\ProjetC\ProjetC\Main.c(185,15): message : les espaces réservés et leurs paramètres attendent des arguments 2 variadiques, mais des arguments 1 ont été fournis
-C:\Users\jeanv\Desktop\Cours\Dev applis\C-C++\ProjetC\ProjetC\Main.c(185,15): message : l'argument variadique manquant 2 est demandé par la chaîne de format '%c'
-C:\Users\jeanv\Desktop\Cours\Dev applis\C-C++\ProjetC\ProjetC\Main.c(185,15): message : cet argument est utilisé comme taille de mémoire tampon
-C:\Users\jeanv\Desktop\Cours\Dev applis\C-C++\ProjetC\ProjetC\Main.c(277,13): warning C4477: 'printf' : la chaîne de format '%s' nécessite un argument de type 'char *', mais l'argument variadique 4 est de type 'Type *'
-C:\Users\jeanv\Desktop\Cours\Dev applis\C-C++\ProjetC\ProjetC\Main.c(361,3): warning C4013: 'Sleep' non défini(e) ; extern retournant int pris par défaut
-C:\Users\jeanv\Desktop\Cours\Dev applis\C-C++\ProjetC\ProjetC\Main.c(394,3): warning C4013: 'strcpy' non défini(e) ; extern retournant int pris par défaut
-C:\Users\jeanv\Desktop\Cours\Dev applis\C-C++\ProjetC\ProjetC\Main.c(396,27): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
-  ProjetC.vcxproj -> C:\Users\jeanv\Desktop\Cours\Dev applis\C-C++\ProjetC\x64\Debug\ProjetC.exe
+﻿  Attack.c
+  HealthKit.c
+  Main.c
+C:\Users\jeanv\Desktop\Cours\Dev applis\C-C++\KillTheClaude\ProjetC\Main.c(46,2): warning C4091: 'extern ' : ignoré à gauche de 'Game' quand aucune variable n'est déclarée
+C:\Users\jeanv\Desktop\Cours\Dev applis\C-C++\KillTheClaude\ProjetC\Main.c(185,15): warning C4473: 'scanf_s' : nombre insuffisant d'arguments passés pour la chaîne de format
+C:\Users\jeanv\Desktop\Cours\Dev applis\C-C++\KillTheClaude\ProjetC\Main.c(185,15): message : les espaces réservés et leurs paramètres attendent des arguments 2 variadiques, mais des arguments 1 ont été fournis
+C:\Users\jeanv\Desktop\Cours\Dev applis\C-C++\KillTheClaude\ProjetC\Main.c(185,15): message : l'argument variadique manquant 2 est demandé par la chaîne de format '%c'
+C:\Users\jeanv\Desktop\Cours\Dev applis\C-C++\KillTheClaude\ProjetC\Main.c(185,15): message : cet argument est utilisé comme taille de mémoire tampon
+C:\Users\jeanv\Desktop\Cours\Dev applis\C-C++\KillTheClaude\ProjetC\Main.c(277,13): warning C4477: 'printf' : la chaîne de format '%s' nécessite un argument de type 'char *', mais l'argument variadique 4 est de type 'Type *'
+C:\Users\jeanv\Desktop\Cours\Dev applis\C-C++\KillTheClaude\ProjetC\Main.c(361,3): warning C4013: 'Sleep' non défini(e) ; extern retournant int pris par défaut
+C:\Users\jeanv\Desktop\Cours\Dev applis\C-C++\KillTheClaude\ProjetC\Main.c(394,3): warning C4013: 'strcpy' non défini(e) ; extern retournant int pris par défaut
+C:\Users\jeanv\Desktop\Cours\Dev applis\C-C++\KillTheClaude\ProjetC\Main.c(396,27): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+  Monstre.c
+  Player.c
+  Type.c
+  Génération de code en cours...
+  ProjetC.vcxproj -> C:\Users\jeanv\Desktop\Cours\Dev applis\C-C++\KillTheClaude\x64\Debug\ProjetC.exe
